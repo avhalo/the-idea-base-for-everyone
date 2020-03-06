@@ -30,9 +30,12 @@ Feature creep
     ** LSTM
     ** CNN
     ** RNN
+    ** Attention learning [is all you need](https://arxiv.org/abs/1706.03762)
     
  * Reinforcement learning
+ * How to avoid overfitting
  ### Possible projects regarding to ml
+    * BERTing
     * Clustering problems ???
     * OCR/Tesseract
     * https://www.elsaspeak.com/en/
@@ -42,6 +45,13 @@ Feature creep
         and the rest of logopedy (fix monotony, wpm, "R/L/S",diftongs, etc)
         fix problem from first language: eg asian, italians, 
         korean example of IPA transformation: f -> p
+    * Create general importable game intelligences:
+      - optimized paths with heuristics (follow roads avoid obstacles)
+      - hardness level for battles. detect hardness from introduction
+      - auto-lip-syncing?
+      - play most common atari-games given the recorded screen
+      - play most terminal games
+      - withdraw from 
 
 ## 2. NLP
  * auto-completion
