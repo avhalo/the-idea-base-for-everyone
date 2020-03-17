@@ -191,6 +191,8 @@ Learn the theory of these first.
 * Lmao: Binary conversion and formation of multilanguages for polyglots
 * etymological meaning and support of dead languages and dialects
 * District/Tribe based historical frameworks
+* Similar words as homonyms and homophones
+* Syllable similarity for lyrically oriented?
 * What is there not to learn?
 
 ## Fintech
