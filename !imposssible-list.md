@@ -173,6 +173,26 @@ Learn the theory of these first.
  * the google science sensor templates
  * Natiove/Web?
 
+### Lang Learn Platform
+* Dictionary integration
+* Pronounciation integration
+* Free writing integratio
+* Combining agglunative language stubs
+* Feedback and comparison to people who started at same time
+* & Started from same level and age
+* Using just mesmerized in rapid feedback loop
+* Long loop of repetition (est mater studiorum)
+* Brilliance of quick learners separeted from 
+   not that oriented in natural languages
+* Use of categories (WordNet) but also polysemous meaning
+   and context
+* Emphasis on common phrases and work/restaurant/everyday stuff
+* Curse words first or curse words last?
+* Lmao: Binary conversion and formation of multilanguages for polyglots
+* etymological meaning and support of dead languages and dialects
+* District/Tribe based historical frameworks
+* What is there not to learn?
+
 ## Fintech
 * plus500.com
 * cryptotrack
