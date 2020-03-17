@@ -173,6 +173,12 @@ Learn the theory of these first.
  * the google science sensor templates
  * Natiove/Web?
 
+## Fintech
+* plus500.com
+* cryptotrack
+* Bloomberg terminal
+* simple and not so simple time-series and regression given curve of certain time period
+
  ## Learning
  * What is lambda calculus
  * Eigen vectors
