@@ -196,7 +196,8 @@ Learn the theory of these first.
 * Similar words as homonyms and homophones
 * Syllable similarity for lyrically oriented?
 * What is there not to learn?
-* Why not this for all or at least for top 20(https://ieeexplore.ieee.org/abstract/document/6320220)
+* Why not this for all or at least for top 20(https://ieeexplore.ieee.org/abstract/document/6320220) and mobile only? Why?
+* Detect or suggest a level autom.
 
 ## Fintech
 * plus500.com
