@@ -27,6 +27,7 @@ You can help this article by expanding it. Tell what you've made!
     * A*
     * Mazegenerators
     * Visual: Mesh
+    * ANY algorithm from [here](https://en.wikipedia.org/wiki/List_of_algorithms#Graph_algorithms). Better do few whilst you're at it. 
 
 ## 1. Machine Learning general
  * The start for every ml-task
@@ -195,6 +196,7 @@ Learn the theory of these first.
 * Similar words as homonyms and homophones
 * Syllable similarity for lyrically oriented?
 * What is there not to learn?
+* Why not this for all or at least for top 20(https://ieeexplore.ieee.org/abstract/document/6320220)
 
 ## Fintech
 * plus500.com
