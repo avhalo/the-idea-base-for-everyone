@@ -126,7 +126,8 @@ Learn the theory of these first.
  * https://domyhomeworks.net/pricing.html
  * https://algoexpert.io/clem
  * glassdoor/welcometothejungle
- * 
+ * etc
+ globalize these: ratkojaristikko.com
  ### hc
  * LiteCMS (.md and latex support, grid selection etc)
     - wiki, news, blog, eshop, any: libraries libraries which bootsrapt also provides
@@ -198,6 +199,7 @@ Learn the theory of these first.
 * What is there not to learn?
 * Why not this for all or at least for top 20(https://ieeexplore.ieee.org/abstract/document/6320220) and mobile only? Why?
 * Detect or suggest a level autom.
+* For introduction: translating all so funny "memes" shitty and controversial ex: "ootko pannulasta?"
 
 ## Fintech
 * plus500.com
