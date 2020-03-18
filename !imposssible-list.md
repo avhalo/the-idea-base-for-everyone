@@ -137,6 +137,7 @@ Learn the theory of these first.
     - plugin
     - decide the language node/python? react/angular?
     - server side? Apache? nginx? 
+    - Kirby?
  * statistical software:
    - inspiration: spss,r,excel, matlab
    - templates: a/b test summary
