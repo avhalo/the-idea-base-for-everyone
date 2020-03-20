@@ -272,6 +272,8 @@ Even this was too hard? Try [these](https://beginnersbook.com/2015/02/simple-c-p
  Remember to document your code! Plus for designdoc! Group projects make you better 
  communicator and is a bonus for job interviews. don't be a loner.
 
+![Writing is harder](https://github.com/avhalo/the-idea-base-for-everyone/blob/master/thinking-writing.jpg "It be like that")
+
 
  “I didn’t dislike it, but I was worried that it would encourage more people to use Manim. Do I want that? Hmm. I wrote the package for myself. It has never been tested."
  https://stanfordirl.com/grant-sanderson-bs15
