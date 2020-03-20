@@ -20,6 +20,8 @@ MySummerCar
 
 You can help this article by expanding it. Tell what you've made!
 
+![Ideas...](https://github.com/avhalo/the-idea-base-for-everyone/blob/master/coming-up-with-ideas-png.png "It be like that")
+
 ## 0. Algorithm Basics
     * DFS
     * BFS
