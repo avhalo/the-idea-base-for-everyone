@@ -82,6 +82,8 @@ Learn the theory of these first.
  * text-synthesis (e.g.quote-generation[+backstory])
  * genre-detection
  * meta-analysis generation
+ * Elsa speak + phonology/logopedy
+  -> [problem](https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.html?referringSource=articleShare) 
 
 
  ## Graphical (web)
@@ -202,6 +204,8 @@ Learn the theory of these first.
 * Why not this for all or at least for top 20(https://ieeexplore.ieee.org/abstract/document/6320220) and mobile only? Why?
 * Detect or suggest a level autom.
 * For introduction: translating all so funny "memes" shitty and controversial ex: "ootko pannulasta?"
+* To think of it more there should be definitely (IPA crawled) syllable stuff: eg. your own name should have the fun things with it. One (easy) is have same starting letter. One is (hard) to have words that are alike with maximum amount of syllables
+* HC detect own faults
 
 ## Fintech
 * plus500.com
