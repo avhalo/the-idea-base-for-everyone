@@ -205,7 +205,10 @@ Learn the theory of these first.
 * Detect or suggest a level autom.
 * For introduction: translating all so funny "memes" shitty and controversial ex: "ootko pannulasta?"
 * To think of it more there should be definitely (IPA crawled) syllable stuff: eg. your own name should have the fun things with it. One (easy) is have same starting letter. One is (hard) to have words that are alike with maximum amount of syllables
-* HC detect own faults
+* HC detect own faults and faultpoints
+* Rhyme evaluation: The coherence and structure may be hard but 
+   there could be a syllable check. Extra measures from song lyrics
+   (living la vida local) and hipetihopson
 
 ## Fintech
 * plus500.com
