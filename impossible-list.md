@@ -213,6 +213,7 @@ Learn the theory of these first.
 * Syllables could of use in situation where there is a need for "eternal loop" which incl. the formation of one or more words when repeated constantly.
 * UK parliament lists pretty well defined stages for learning languages [Lang teach in scho PDF](https://commonslibrary.parliament.uk/research-briefings/cbp-7388/)
    - For example the stage 2: "explore the patterns and sounds of language through songs and rhymes and link the spelling [...]"
+   - "appreciate stories, songs, poems and rhymes in the language"
 ## Fintech
 * plus500.com
 * cryptotrack
