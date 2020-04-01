@@ -168,7 +168,7 @@ Learn the theory of these first.
  * Terminal 4chan and reddit client (TUI)
  * Simple server system with configuration, focus on sec
 ### Psychology
- * cognitive assesment
+ * cognitive assesment aka CBT (not Woebot)
  * memory "enhancer"
  * IQ-tests
  * Personality test (MBTI, OCEAN etc)
@@ -178,7 +178,8 @@ Learn the theory of these first.
 ### Android/iOS
  * IM-chatbots
  * the google science sensor templates
- * Natiove/Web?
+ * Rather Natiove/Web?
+ * iOS ML-toolkit
 
 ### Lang Learn Platform
 * Dictionary integration
@@ -209,7 +210,9 @@ Learn the theory of these first.
 * Rhyme evaluation: The coherence and structure may be hard but 
    there could be a syllable check. Extra measures from song lyrics
    (living la vida local) and hipetihopson
-
+* Syllables could of use in situation where there is a need for "eternal loop" which incl. the formation of one or more words when repeated constantly.
+* UK parliament lists pretty well defined stages for learning languages [Lang teach in scho PDF](https://commonslibrary.parliament.uk/research-briefings/cbp-7388/)
+   - For example the stage 2: "explore the patterns and sounds of language through songs and rhymes and link the spelling [...]"
 ## Fintech
 * plus500.com
 * cryptotrack
