@@ -291,4 +291,24 @@ Even this was too hard? Try [these](https://beginnersbook.com/2015/02/simple-c-p
 
  I'm sorry Dave, I didn't quite catch that
 
+The problem you most certainly is going to have is with disk allocation. By this I mean that there is no Googol defines time space that can give you an answer that how much time is needed for one project or another. 
+
+Here is a list of scrum agencies and how much time they gave to little things called "sprints" which give a feature it's track of time. 
+
+1-3hrs a day. Solo:
+2wk: You've now a hero. Congratulations. Basis formed. 
+4wk: 
+5wk:
+Deploy.
+
+2-5 hours cumulative group (4 pcs. of persons) time, level pseudo-amateur:
+# Soft phase
+1d: you've now discovered the field of competition
+2d: you're thinking about why they don't have X=property and Y=relation to other company
+3d: You're seriously rethinking why you would better the already done
+4d: Congrats! You've now decided, that ok, maybe its time to implement this. 90% people don't survive to this D-day or stick to it. This is certainly an outcome of Sturgeon's (https://en.wikipedia.org/wiki/Distributed_Search_Engine) (This is due the nature of software execution is sci-fi to most, me included)
+
+# Do phase
+
+
 
